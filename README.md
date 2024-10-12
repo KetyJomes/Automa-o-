@@ -1,5 +1,5 @@
 # Automacao
-Automação de tarefa, Criação de bots, Economizar horas de trabalho,  RPA e Web-Scraping
+Automação do processo de cadastro de milhares de produtos no sistema usando Python para ser executado de forma diária e sob demanda. 
 
 # Passo a passo do projeto
 # Passo 1: Entrar no sistema da empresa 
