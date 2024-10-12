@@ -3,7 +3,7 @@ Automação do processo de cadastro de milhares de produtos no sistema usando Py
 
 # Passo a passo do projeto
 # Passo 1: Entrar no sistema da empresa 
-    # https://dlp.hashtagtreinamentos.com/python/intensivao/login
+    # Email de exemplo https://dlp.hashtagtreinamentos.com/python/intensivao/login
 
 import pyautogui
 import time
